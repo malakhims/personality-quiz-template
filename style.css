@@ -1,0 +1,40 @@
+        body {
+          background-image: url("images/bg_weirdgirl.png");
+          background-attachment: fixed;
+          background-size:cover;
+          text-align: left;
+          font-size: xx-large;
+          color: black;
+          font-family: 'Courier New', Courier, monospace;
+          color: #4f3551;
+        }
+
+        h1 {
+            margin-bottom:2px;
+            color: purple;
+            font-size: xxx-large;
+        }
+
+        p {
+
+        }
+
+        h2 {
+            margin-bottom:2px;
+            color: purple;
+            font-size: xx-large;
+        }
+
+        .quiz {
+            background-color: white;
+        }
+
+        .form-stuff {
+             height:60px;
+             width:810px;
+             line-height:1;
+             padding:50px;
+             background-color:transparent;
+             color: #621867;
+             scrollbar-base-color:orchid;
+        }
