@@ -1,17 +1,18 @@
         body {
-          background-image: url("images/bg_weirdgirl.png");
+          background-image: url("images/bg.png");
           background-attachment: fixed;
-          background-size:cover;
+          background-size: 300px;
+          background-color: rgb(255, 255, 255);
           text-align: left;
           font-size: xx-large;
           color: black;
-          font-family: 'Courier New', Courier, monospace;
+          font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
           color: #4f3551;
         }
 
         h1 {
             margin-bottom:2px;
-            color: purple;
+            color:  rgb(151, 17, 151);;
             font-size: xxx-large;
         }
 
@@ -21,7 +22,7 @@
 
         h2 {
             margin-bottom:2px;
-            color: purple;
+            color: rgb(151, 17, 151);
             font-size: xx-large;
         }
 
